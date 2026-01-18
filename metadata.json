@@ -1,0 +1,7 @@
+{
+  "name": "LUX STUDIO | Minimalist Photography Portfolio",
+  "description": "A high-end, minimalist photography studio management platform featuring an elegant portfolio, service booking, and a comprehensive admin dashboard for scheduling and order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
